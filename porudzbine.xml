@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Porudzbine>
+  <Porudzbina>
+    <Kupac>
+      <Ime>Marko</Ime>
+      <Prezime>Marković</Prezime>
+      <Telefon>123-456</Telefon>
+    </Kupac>
+    <Stavka>
+      <Proizvod>Računar1</Proizvod>
+      <Cena>400</Cena>
+      <Kolicina>2</Kolicina>
+    </Stavka>
+    <Stavka>
+      <Proizvod>Patike</Proizvod>
+      <Cena>50</Cena>
+      <Kolicina>2</Kolicina>
+    </Stavka>
+  </Porudzbina>
+  <Porudzbina>
+    <Kupac>
+      <Ime>Nenad</Ime>
+      <Prezime>Marković</Prezime>
+      <Telefon>123-456</Telefon>
+    </Kupac>
+    <Stavka>
+      <Proizvod>Mobilni telefon</Proizvod>
+      <Cena>250</Cena>
+      <Kolicina>2</Kolicina>
+    </Stavka>
+    <Stavka>
+      <Proizvod>Naočare za sunce</Proizvod>
+      <Cena>50</Cena>
+      <Kolicina>2</Kolicina>
+    </Stavka>
+  </Porudzbina>
+  <Porudzbina>
+    <Kupac>
+      <Ime>Miloš</Ime>
+      <Prezime>Marković</Prezime>
+      <Telefon>123-456</Telefon>
+    </Kupac>
+    <Stavka>
+      <Proizvod>Mikser</Proizvod>
+      <Cena>25</Cena>
+      <Kolicina>2</Kolicina>
+    </Stavka>
+    <Stavka>
+      <Proizvod>Klima uređaj</Proizvod>
+      <Cena>300</Cena>
+      <Kolicina>2</Kolicina>
+    </Stavka>
+  </Porudzbina>
+</Porudzbine>

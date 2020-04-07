@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Studenti>
+  <Student>
+    <Osoba>
+      <Ime>Marko</Ime>
+      <Prezime>Miljković</Prezime>
+      <JMBG>1111112222145</JMBG>
+    </Osoba>
+    <Indeks>NRT-38-04</Indeks>
+    <DatumUpisa>15.07.2004</DatumUpisa>
+  </Student>
+</Studenti>
